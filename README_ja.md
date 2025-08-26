@@ -2,14 +2,14 @@
 
 <p align="center">ComfyUIツールボックスは、複雑なワークフローを通じて、衣装の交換、顔の交換、アイテムの交換、アニメから実写への変換、スタイル転送、モデルビデオの生成など、様々な商用グレードの変換効果を実現します。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/comfytools/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/64" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 
 ![](docs/302_ComfyUI_Toolbox_jp.png)
 
-[302.AI](https://302.ai/ja/)の[ComfyUIツールボックス](https://302.ai/ja/tools/comfytools/)のオープンソース版です。
+[302.AI](https://302.ai/ja/)の[ComfyUIツールボックス](https://302.ai/product/detail/64)のオープンソース版です。
 302.AIに直接ログインすることで、コード不要、設定不要のオンライン体験が可能です。
 あるいは、このプロジェクトをニーズに合わせてカスタマイズし、302.AIのAPI KEYを統合して、自身でデプロイすることもできます。
 
